@@ -1,8 +1,8 @@
 # CV-Maker
 Curriculum Vitae Maker
 
-Framework used: 
+# Framework used: 
   MVC : CodeIgniter
-  CSS : Bootstrap '\n'
-Plugins used: 
+  CSS : Bootstrap
+# Plugins used: 
   jQuery, Ajax
