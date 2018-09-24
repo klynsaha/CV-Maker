@@ -3,6 +3,6 @@ Curriculum Vitae Maker
 
 Framework used: 
   MVC : CodeIgniter
-  CSS : Bootstrap
+  CSS : Bootstrap '\n'
 Plugins used: 
   jQuery, Ajax
